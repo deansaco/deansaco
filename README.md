@@ -4,7 +4,7 @@
 - Current interests include:
   - Long-running background/ambient agents
   - Agent memory
-  - Improving iterative tool calling through RL
+- Looking to learn about improving iterative tool calling through RL
 <!--
 **deansaco/deansaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
