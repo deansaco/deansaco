@@ -1,10 +1,6 @@
-## Hi there 👋
-- I'm currently working as a Forward Deployed AI Engineer at Tavily.
-- Focussed on building AI agents that connect with the web.
-- Current interests include:
-  - Long-running background/ambient agents
-  - Agent memory
-- Looking to learn about improving iterative tool calling through RL
+
+currently leading the forward deployed engineering team at Tavily
+
 <!--
 **deansaco/deansaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
